@@ -1,0 +1,9 @@
+@<TRIPOS>MOLECULE
+1
+ 1 0 0 0 0
+SMALL
+GASTEIGER
+
+@<TRIPOS>ATOM
+      1 I           4.8893    1.4372   12.3766 I       1  UNL1        0.0000
+@<TRIPOS>BOND

@@ -1,0 +1,9 @@
+@<TRIPOS>MOLECULE
+1
+ 1 0 0 0 0
+SMALL
+GASTEIGER
+
+@<TRIPOS>ATOM
+      1 O           3.1101   16.6468    3.4799 O.3     1  HOH1        0.0000
+@<TRIPOS>BOND

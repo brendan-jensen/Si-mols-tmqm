@@ -1,0 +1,9 @@
+@<TRIPOS>MOLECULE
+1
+ 1 0 0 0 0
+SMALL
+GASTEIGER
+
+@<TRIPOS>ATOM
+      1 CL          0.3143    5.2873    5.7228 Cl      1  UNL1        0.0000
+@<TRIPOS>BOND

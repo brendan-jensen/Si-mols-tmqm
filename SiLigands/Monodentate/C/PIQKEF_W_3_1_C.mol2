@@ -1,0 +1,11 @@
+@<TRIPOS>MOLECULE
+2
+ 2 1 0 0 0
+SMALL
+GASTEIGER
+
+@<TRIPOS>ATOM
+      1 O          -0.8128   -1.4493    6.2883 O.3     1  UNL1       -0.2175
+      2 C          -0.9737   -0.3194    6.3368 C.3     1  UNL1        0.2175
+@<TRIPOS>BOND
+     1     1     2    1

@@ -1,0 +1,15 @@
+@<TRIPOS>MOLECULE
+1
+ 4 3 0 0 0
+SMALL
+GASTEIGER
+
+@<TRIPOS>ATOM
+      1 SI          8.6211    4.7253    2.4485 Si      1  UNL1        0.0000
+      2 CL         10.4606    5.5617    1.8883 Cl      1  UNL1        0.0000
+      3 CL          9.1636    2.7225    2.6825 Cl      1  UNL1        0.0000
+      4 CL          7.6249    4.6648    0.6320 Cl      1  UNL1        0.0000
+@<TRIPOS>BOND
+     1     4     1    1
+     2     2     1    1
+     3     1     3    1
